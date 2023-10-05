@@ -62,7 +62,7 @@ export default () => {
                   </div>
                 </div>
               </div>
-              <div className='keen-slider__slide slid-color'>
+              <div className='keen-slider__slide slid-color shadow-bg'>
                 <div className='inner-slids'>
                   <h3>Buyer's Agreement</h3>
                   <h5>TRANSACTION PROCESS</h5>
