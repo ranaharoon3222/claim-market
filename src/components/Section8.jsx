@@ -5,10 +5,10 @@ const Section8 = () => {
     <>
       <div className='backColor5'>
         <div className='star-4'>
-          <img src='./star-2.png' alt='' />
+          <img src='/star-2.png' alt='' />
         </div>
         <div className='star-5'>
-          <img src='./star-2.png' alt='' />
+          <img src='/star-2.png' alt='' />
         </div>
         <div className='container'>
           <div className='history'>

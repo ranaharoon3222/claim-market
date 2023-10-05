@@ -17,7 +17,7 @@ const Section2 = () => {
 
         <div className='three-icons'>
           <div className='icon'>
-            <img src='./icon-1.png' alt='' />
+            <img src='/icon-1.png' alt='' />
             <h4>Sellers</h4>
             <p>
               Sellers can list their claims on the site, and upload necessary
@@ -25,7 +25,7 @@ const Section2 = () => {
             </p>
           </div>
           <div className='icon'>
-            <img src='./icon-2.png' alt='' />
+            <img src='/icon-2.png' alt='' />
             <h4>Save Time</h4>
             <p>
               We curate all claims offered, and only list scheduled or allowed
@@ -33,7 +33,7 @@ const Section2 = () => {
             </p>
           </div>
           <div className='icon'>
-            <img src='./icon-3.png' alt='' />
+            <img src='/icon-3.png' alt='' />
             <h4>Buyers</h4>
             <p>
               Buyers can scroll through the claims offered and select which
@@ -44,12 +44,12 @@ const Section2 = () => {
         </div>
         <div className='stars'>
           <div className='star-2'>
-            <img src='./star-2.png' alt='' />
+            <img src='/star-2.png' alt='' />
           </div>
         </div>
       </div>
       <div className='sec-elip'>
-        <img src='./elip-2.png' alt='' />
+        <img src='/elip-2.png' alt='' />
       </div>
     </>
   );

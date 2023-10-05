@@ -5,11 +5,11 @@ const Section3 = () => {
     <>
       <div className='container'>
         <div className='video'>
-          <img src='./video-pic.png' alt='' />
+          <img src='/video-pic.png' alt='' />
         </div>
       </div>
       <div className='elip-3'>
-        <img src='./elip-2.png' alt='' />
+        <img src='/elip-2.png' alt='' />
       </div>
     </>
   );

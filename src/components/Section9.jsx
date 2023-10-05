@@ -6,12 +6,12 @@ const Section9 = () => {
       <div className='container'>
         <div className='elips'>
           <div className='eli'>
-            <img src='./elip-1.png' alt='' />
+            <img src='/elip-1.png' alt='' />
           </div>
         </div>
       </div>
       <div className='star'>
-        <img src='./star-1.png' alt='' />
+        <img src='/star-1.png' alt='' />
       </div>
     </>
   );

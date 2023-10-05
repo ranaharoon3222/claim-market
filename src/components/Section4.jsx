@@ -172,7 +172,7 @@ export default () => {
         </div>
       </div>
       <div className='scale-3'>
-        <img src='./scale.png' alt='' />
+        <img src='/scale.png' alt='' />
       </div>
     </>
   );

@@ -5,10 +5,10 @@ const Section6 = () => {
     <>
       <div className='backColor3'>
         <div className='scale-3'>
-          <img src='./scale.png' alt='' />
+          <img src='/scale.png' alt='' />
         </div>
         <div className='star-4'>
-          <img src='./star-2.png' alt='' />
+          <img src='/star-2.png' alt='' />
         </div>
         <div className='container'>
           <div className='history'>
@@ -28,7 +28,7 @@ const Section6 = () => {
                 are more likely to ge
               </h3>
               <div className='haflex'>
-                <img src='./line-1.png' alt='' />
+                <img src='/line-1.png' alt='' />
                 <div className='li'>
                   <li>
                     More Buyers will see your claim for sale. Buyers who could
@@ -51,7 +51,7 @@ const Section6 = () => {
                 close.
               </h3>
               <div className='haflex'>
-                <img src='./line-2.png' alt='' />
+                <img src='/line-2.png' alt='' />
                 <div className='li'>
                   <li>
                     If you use Claims Market's Simple Assignment of Claim
@@ -72,7 +72,7 @@ const Section6 = () => {
                 3. Fast closing. The closing process is short and predictable.
               </h3>
               <div className='haflex'>
-                <img src='./line-3.png' alt='' />
+                <img src='/line-3.png' alt='' />
                 <div className='li'>
                   <li>
                     Once a Buyer has confirmed their agreement to purchase your
@@ -89,7 +89,7 @@ const Section6 = () => {
           </div>
         </div>
         <div className='elip-3'>
-          <img src='./elip-2.png' alt='' className='little' />
+          <img src='/elip-2.png' alt='' className='little' />
         </div>
       </div>
     </>

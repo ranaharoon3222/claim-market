@@ -7,7 +7,7 @@ const Footer = () => {
         <div className='container'>
           <div className='fot-grid'>
             <div className='fots'>
-              <img src='./logo.png' alt='' />
+              <img src='/logo.png' alt='' />
               <p>
                 Claims Market is a platform dedicated to simplifying the market
                 for trade claims. Our goal is to bring together Sellers and
@@ -15,8 +15,8 @@ const Footer = () => {
                 transaction costs.
               </p>
               <div className='fot-icon'>
-                <img src='./in.png' alt='' />
-                <img src='./you.png' alt='' />
+                <img src='/in.png' alt='' />
+                <img src='/you.png' alt='' />
               </div>
             </div>
             <div className='onlyP'>

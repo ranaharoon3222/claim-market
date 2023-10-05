@@ -42,7 +42,7 @@ export const Section5 = () => {
           </div>
         </div>
         <div className='star-3'>
-          <img src='./star-2.png' alt='' />
+          <img src='/star-2.png' alt='' />
         </div>
       </div>
     </>

@@ -5,7 +5,7 @@ const Section1 = () => {
     <>
       <div className='backColor1'>
         <div className='scale'>
-          <img src='./scale.png' alt='' />
+          <img src='/scale.png' alt='' />
         </div>
         <div className='container'>
           <div className='history'>

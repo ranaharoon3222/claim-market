@@ -6,7 +6,7 @@ const Section7 = () => {
       <div className='container'>
         <div className='botom'>
           <div className='history2'>
-            <img src='./trazo.png' alt='' />
+            <img src='/trazo.png' alt='' />
             <h1>claims-market</h1>
           </div>
           <div className='trans'>

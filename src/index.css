@@ -1,5 +1,5 @@
 .back-pic {
-  background-image: url(./back-img.png);
+  background-image: url(/back-img.png);
   background-size: cover;
   /* padding-top: 500px; */
   /* background-position: center; */
@@ -516,7 +516,7 @@ input[type='checkbox'] {
   /* margin-top: 50px; */
 }
 .backPic2 {
-  background-image: url(./back-pic2.png);
+  background-image: url(/back-pic2.png);
   background-size: cover;
   height: 600px;
   /* padding-top: 100px; */
@@ -979,7 +979,7 @@ input[type='checkbox'] {
     margin-top: 30px;
   }
   .backPic2 {
-    background-image: url(./back-pic2.png);
+    background-image: url(/back-pic2.png);
     background-size: cover;
     height: 100%;
     max-height: 900px;
