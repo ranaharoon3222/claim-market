@@ -839,6 +839,9 @@ svg.arrow.arrow--right {
 .top-mb-slide {
   margin-top: 50px;
 }
+.area-chart {
+  margin-top: 80px;
+}
 @media all and (min-width: 1024px) {
   .desktop-hidden {
     display: none;
@@ -851,6 +854,10 @@ svg.arrow.arrow--right {
   }
   .inner-text p {
     padding-top: 15px;
+  }
+  .back-pic {
+    background-position: center;
+    padding-bottom: 50px !important;
   }
   .mobile-hidden {
     display: none;

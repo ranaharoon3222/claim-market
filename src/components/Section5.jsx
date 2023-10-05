@@ -1,4 +1,5 @@
 import React from 'react';
+import AreaChart from './AreaChart';
 
 export const Section5 = () => {
   return (
@@ -28,6 +29,7 @@ export const Section5 = () => {
           <label className='faq-drawer__title' for='faq-drawer'>
             BlockFi Inc.{' '}
           </label>
+
           <div className='faq-drawer__content-wrapper'>
             <div className='faq-drawer__content'>
               <p>
@@ -41,6 +43,9 @@ export const Section5 = () => {
             </div>
           </div>
         </div>
+
+        <AreaChart />
+
         <div className='star-3'>
           <img src='/star-2.png' alt='' />
         </div>
