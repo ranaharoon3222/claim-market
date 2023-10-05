@@ -30,7 +30,7 @@ export default () => {
         <div className='container'>
           <div className='navigation-wrapper'>
             <div ref={sliderRef} className='keen-slider'>
-              <div className='keen-slider__slide slid-color'>
+              <div className='keen-slider__slide slid-color shadow-bg'>
                 <div className='inner-slids'>
                   <h3>Simple Assignmentof Claim</h3>
                   <p>
@@ -47,7 +47,7 @@ export default () => {
                 </div>
               </div>
 
-              <div className='keen-slider__slide slid-color'>
+              <div className='keen-slider__slide slid-color shadow-bg'>
                 <div className='inner-slids'>
                   <h3>Seller's Agreement</h3>
                   <p className='agree'>
@@ -79,7 +79,7 @@ export default () => {
                   </div>
                 </div>
               </div>
-              <div className='keen-slider__slide slid-color'>
+              <div className='keen-slider__slide slid-color shadow-bg'>
                 <div className='inner-slids'>
                   <h3>Simple Assignmentof Claim</h3>
                   <p>
@@ -95,7 +95,7 @@ export default () => {
                   </div>
                 </div>
               </div>
-              <div className='keen-slider__slide slid-color'>
+              <div className='keen-slider__slide slid-color shadow-bg'>
                 <div className='inner-slids'>
                   <h3>Seller's Agreement</h3>
                   <p className='agree'>
@@ -110,7 +110,7 @@ export default () => {
                   </div>
                 </div>
               </div>
-              <div className='keen-slider__slide slid-color'>
+              <div className='keen-slider__slide slid-color shadow-bg'>
                 <div className='inner-slids'>
                   <h3>Buyer's Agreement</h3>
                   <h5>TRANSACTION PROCESS</h5>

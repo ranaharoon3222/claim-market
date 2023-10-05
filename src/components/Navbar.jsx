@@ -5,7 +5,7 @@ const Navbar = () => {
     <>
       <div className='back-pic'>
         <div className='container'>
-          <nav>
+          <nav className='navbar'>
             <div className='logo'>
               <img src='/logo.png' alt='' />
               <p>by</p>
@@ -24,15 +24,19 @@ const Navbar = () => {
                 {' '}
                 <li>Prices</li>
               </a>
+              <a href=''>
+                <li>
+                  <div className='btn'>
+                    <button>Login</button>
+                  </div>
+                </li>
+              </a>
             </ul>
-            <div className='btn'>
-              <button>Login</button>
-            </div>
           </nav>
 
           <div className='boxes'>
             <div className='text'>
-              <h1>
+              <h1 className='bold'>
                 BEST PRICE and <span>FASTEST CLOSING</span>
               </h1>
               <p>
