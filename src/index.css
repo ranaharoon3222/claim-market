@@ -836,8 +836,25 @@ svg.arrow.arrow--right {
 .backColor2 .keen-slider {
   padding: 0 0px 40px;
 }
+.top-mb-slide {
+  margin-top: 50px;
+}
+@media all and (min-width: 1024px) {
+  .desktop-hidden {
+    display: none;
+  }
+}
 
 @media all and (max-width: 1024px) {
+  .inner-text {
+    padding: 25px 10px !important;
+  }
+  .inner-text p {
+    padding-top: 15px;
+  }
+  .mobile-hidden {
+    display: none;
+  }
   .text h1 {
     max-width: 630px !important;
   }

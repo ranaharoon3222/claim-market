@@ -1,4 +1,5 @@
 import React from 'react';
+import HeaderBoxesSlides from './HeaderBoxesSlides';
 // import logo from 'logo.png';
 const Navbar = () => {
   return (
@@ -48,7 +49,8 @@ const Navbar = () => {
                 <img src='/arrow-button.png' alt='' />
               </div>
             </div>
-            <div className='inner-box'>
+
+            <div className='inner-box mobile-hidden'>
               <div className='inner-text'>
                 <h3>Celsius</h3>
                 <img src='/celsius.png' alt='' className='cel' />
@@ -72,6 +74,8 @@ const Navbar = () => {
             </div>
           </div>
         </div>
+
+        <HeaderBoxesSlides />
       </div>
     </>
   );
