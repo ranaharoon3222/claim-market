@@ -38,7 +38,7 @@ const Navbar = () => {
           <div className='boxes'>
             <div className='text'>
               <h1 className='bold'>
-                BEST PRICE and <span>FASTEST CLOSING</span>
+                BEST PRICE and <span className='bold'>FASTEST CLOSING</span>
               </h1>
               <p>
                 Claims Market is a platform dedicated to providing the best
